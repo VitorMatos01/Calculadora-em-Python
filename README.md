@@ -1,7 +1,8 @@
 # Calculadora-em-Python
 Nestes algoritmos presentes, utilizei operadores de pertencimento, aritméticos, comparação e condicionais. Além disso, foi utilizado o loop infinito (while), entrada com a função (input). Assim, foi usada também a conversão de dados.
 
-while True:
+    
+    while True:
     numero_1 = input('Digite um número: ')
     numero_2 = input('Digite outro número: ')
     operador = input('Digite um operador (+-/*): ')
